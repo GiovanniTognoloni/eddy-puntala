@@ -4,3 +4,9 @@ Thumbs.db
 .vs/
 *.user
 *.log
+
+# strumento interno di cattura screenshot (non parte del gioco)
+shot.html
+
+# artefatti di release (distribuiti via GitHub Releases, non nel repo)
+release/

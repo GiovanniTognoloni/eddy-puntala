@@ -7,6 +7,18 @@ mediterranea raccogliendo tesori, saltando sui funghi e sfuggendo alle volpi!
 Gioco browser-based (HTML + CSS + JavaScript), **senza dipendenze**: nessun
 Node.js, nessuna libreria, tutta la grafica è disegnata su canvas.
 
+## 🎬 Gioca online
+
+👉 **[Gioca subito su GitHub Pages](https://giovannitognoloni.github.io/eddy-puntala/)**
+
+## 📸 Screenshot
+
+### Livello 1 — Pineta → Mare
+![Livello 1](screenshots/level1.png)
+
+### Livello 2 — Macchia Mediterranea (volpi, grotte, power-up)
+![Livello 2](screenshots/level2.png)
+
 ## ▶️ Come giocare
 
 Apri **`index.html`** con un doppio clic (funziona in qualsiasi browser
